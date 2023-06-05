@@ -5,5 +5,5 @@ int main()
   int b = 0;
   int c = a + b;
   printf("Sum of a+b =",c);
-  long i = 0;
+
 }
